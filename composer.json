@@ -1,7 +1,7 @@
 {
     "name": "vogi/oop",
     "require": {
-        "twig/twig": "^2.12"
+        "twig/twig": "^3.11"
     },
 
     "autoload": {
